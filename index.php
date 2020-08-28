@@ -9,7 +9,7 @@ if(isset($_POST['email']) AND $_POST['email'] != '') {
         $country = $_POST['country'];
         $email = $_POST['email'];
         $comment = $_POST['comment'];
-
+    }
 
 }
 ?>
